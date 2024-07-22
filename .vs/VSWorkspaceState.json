@@ -2,6 +2,10 @@
   "ExpandedNodes": [
     ""
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\hello1.txt",
+=======
+  "SelectedNode": "\\hello.txt",
+>>>>>>> c10792b9a8c8a083bed5eecd866ec009cb413eab
   "PreviewInSolutionExplorer": false
 }
